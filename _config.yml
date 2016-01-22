@@ -1,0 +1,28 @@
+name: arboladelante
+favicon: null
+layout_spectrum: 0.6801592763513327
+typography_spectrum: 0.4483210074249655
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3132547379937023
+  lightness: 0.09987784340046346
+  saturation: 0.9894654026720673
+  rhythmicContrast: 0.36056341347284615
+purpose: []
