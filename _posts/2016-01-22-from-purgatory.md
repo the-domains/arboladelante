@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: I´ve been waiting for you
-datePublished: '2016-01-22T20:17:57.524Z'
-dateModified: '2016-01-22T20:11:59.544Z'
+datePublished: '2016-01-22T21:53:53.906Z'
+dateModified: '2016-01-22T21:53:51.245Z'
 title: Purgatory
 author: []
 sourcePath: _posts/2016-01-22-from-purgatory.md
@@ -23,14 +23,16 @@ _type: Article
 
 ---
 # [P][0]urgatory
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/63438500562d923d98c4f50876197f7009f88a04.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a49bead-3dbd-4bfe-9255-3afffe79ad42.jpg)
+She has been waiting him for ages
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/694b81f42d216e1137eaa0ae813aca03ced151e0.jpg)
 
-: Attempting to share from pages that require login (like Facebook), won't work - The Grid will only grab the content from the landing page/login page.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea73d499-2c8c-4f40-8ed8-162f83f35cb6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21dbaa06-f765-4d5a-a681-586fe7456328.jpg)
+**----------------------------------------------------------------------------**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eccf8225dcb1b4689b32bd10f65addbdf5458c29.jpg)
 
-undefined
+**----------------------------------------------------------------------------**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdfb6c52e641658849f823a1bc78a06e40ce05e2.jpg)
+
+fin.
 
 [0]: null
