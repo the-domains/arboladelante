@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://app.thegrid.io/posts/a83370d1-87f2-4dc9-905b-aeff7a9664de/edit'
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-22T18:11:46.373Z'
-dateModified: '2016-01-22T18:11:44.574Z'
+datePublished: '2016-01-22T18:30:11.686Z'
+dateModified: '2016-01-22T18:30:07.248Z'
 author: []
 title: 'Yo no hablo de venganzas ni perdones, el olvido es la única venganza y el único perdón.'
 sourcePath: _posts/2016-01-22-yo-no-hablo-de-venganzas-ni-perdones-el-olvido-es-la-unica.md
@@ -19,6 +18,7 @@ publisher:
   domain: app.thegrid.io
   url: null
   favicon: null
+url: yo-no-hablo-de-venganzas-ni-perdones-el-olvido-es-la-unica/index.html
 _context: 'http://schema.org'
 _type: Article
 
