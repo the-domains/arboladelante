@@ -4,21 +4,21 @@
         <description><![CDATA[personal work]]></description>
         <link>http://arboladelante.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 15:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 15:12:22 GMT</lastBuildDate>
         <atom:link href="http://arboladelante.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[From Purgatory]]></title>
-            <description><![CDATA[<article><h1>From Purgatory</h1><p>From Purgatury</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62c19af66a6a9eaa16028fda05db32e4bb79ae1f.jpg"></article>]]></description>
-            <link>http://arboladelante.com/from-purgatory/index.html</link>
-            <guid isPermaLink="false">a83370d1-87f2-4dc9-905b-aeff7a9664de</guid>
-            <pubDate>Fri, 22 Jan 2016 15:11:08 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c76a20a0279bafac98b3df9dbaba8a7b04fef40.jpg" alt="" title="">]]></description>
             <link>http://arboladelante.com/66181c21-146f-4f10-b9f0-7ef0c08a97fd/index.html</link>
             <guid isPermaLink="false">66181c21-146f-4f10-b9f0-7ef0c08a97fd</guid>
-            <pubDate>Fri, 22 Jan 2016 14:49:28 GMT</pubDate>
+            <pubDate>Fri, 22 Jan 2016 15:12:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Purgatory]]></title>
+            <description><![CDATA[<article><h1>From Purgatory</h1><p>From Purgatury</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7f4e016e7244a6a9bf7f859b1818f53997604e2.jpg"></article>]]></description>
+            <link>http://arboladelante.com/from-purgatory/index.html</link>
+            <guid isPermaLink="false">a83370d1-87f2-4dc9-905b-aeff7a9664de</guid>
+            <pubDate>Fri, 22 Jan 2016 15:11:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
