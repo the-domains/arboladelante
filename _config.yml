@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: personal work
+title: arboladelante
 cta:
   domain: null
   bucket: null
