@@ -1,6 +1,6 @@
 name: arboladelante
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.73053
 typography_spectrum: 0.8440861
 collections:
   - index:
@@ -33,8 +33,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.3132547379937023
-  lightness: 0
-  saturation: 0.8028674
-  rhythmicContrast: 0.8458781
+  brandStrength: 0.75
+  lightness: 0.5
+  saturation: 0.375
+  rhythmicContrast: 0
 purpose: []
