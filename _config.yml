@@ -1,5 +1,7 @@
-title: personal work
-purpose: []
+name: arboladelante
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4605735
 collections:
   - index:
       path: /
@@ -12,30 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: arboladelante
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.953405
-  brandStrength: 0.937276
-  lightness: 0.9856631
   brandColors:
     - '#535454'
     - '#FCE876'
     - '#E1A289'
     - '#C5C8BC'
     - '#310D10'
+  brandStrength: 0.937276
+  lightness: 0.9856631
+  saturation: 0.953405
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: arboladelante
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4605735
-layout_spectrum: 1
+purpose: []
