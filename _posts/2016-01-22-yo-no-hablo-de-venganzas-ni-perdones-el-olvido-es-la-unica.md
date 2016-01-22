@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-22T18:30:12.012Z'
-dateModified: '2016-01-22T18:30:07.248Z'
+datePublished: '2016-01-22T18:34:11.053Z'
+dateModified: '2016-01-22T18:34:06.486Z'
 author: []
 title: 'Yo no hablo de venganzas ni perdones, el olvido es la única venganza y el único perdón.'
 sourcePath: _posts/2016-01-22-yo-no-hablo-de-venganzas-ni-perdones-el-olvido-es-la-unica.md
