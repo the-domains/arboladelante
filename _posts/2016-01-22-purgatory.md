@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Somewhere
-datePublished: '2016-01-22T22:27:35.759Z'
-dateModified: '2016-01-22T22:27:25.889Z'
-title: Purgatory
+description: ''
+datePublished: '2016-01-22T22:28:26.603Z'
+dateModified: '2016-01-22T22:28:24.572Z'
+title: Somewhere
 author: []
+sourcePath: _posts/2016-01-22-purgatory.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-purgatory.md
-published: true
+url: somewhere/index.html
 _type: Article
 
 ---
