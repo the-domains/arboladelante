@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[arboladelante]]></title>
-        <description><![CDATA[arboladelante]]></description>
+        <title><![CDATA[personal work]]></title>
+        <description><![CDATA[personal work]]></description>
         <link>http://arboladelante.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 14:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 15:11:24 GMT</lastBuildDate>
         <atom:link href="http://arboladelante.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[From Purgatory]]></title>
+            <description><![CDATA[<article><h1>From Purgatory</h1><p>From Purgatury</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62c19af66a6a9eaa16028fda05db32e4bb79ae1f.jpg"></article>]]></description>
+            <link>http://arboladelante.com/from-purgatory/index.html</link>
+            <guid isPermaLink="false">a83370d1-87f2-4dc9-905b-aeff7a9664de</guid>
+            <pubDate>Fri, 22 Jan 2016 15:11:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c76a20a0279bafac98b3df9dbaba8a7b04fef40.jpg" alt="" title="">]]></description>
