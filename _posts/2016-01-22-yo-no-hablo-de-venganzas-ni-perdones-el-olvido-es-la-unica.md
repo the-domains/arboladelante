@@ -1,36 +1,36 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://app.thegrid.io/posts/a83370d1-87f2-4dc9-905b-aeff7a9664de/edit'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T18:34:11.111Z'
-dateModified: '2016-01-22T18:34:06.486Z'
+datePublished: '2016-01-22T19:29:34.588Z'
+dateModified: '2016-01-22T19:29:16.551Z'
 author: []
 title: 'Yo no hablo de venganzas ni perdones, el olvido es la única venganza y el único perdón.'
 sourcePath: _posts/2016-01-22-yo-no-hablo-de-venganzas-ni-perdones-el-olvido-es-la-unica.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: app.thegrid.io
   domain: app.thegrid.io
   url: null
-  favicon: null
-url: yo-no-hablo-de-venganzas-ni-perdones-el-olvido-es-la-unica/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cfe04ec5c0cf7653da403beecf31f0fa4ab1976.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7320cbf09a271e87b44bbbbb4c517cc9de3e631.jpg)
 
 # Yo no hablo de venganzas ni perdones, el olvido es la única venganza y el único perdón.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38c474d5-ee64-4053-b983-ae9c17ac458b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfdd979146388ea72fcbc3554aa6a24f74418027.jpg)
 
 > _La muerte es una vida vivida. La vida es una muerte que viene._
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bea7db23-ed62-4bcd-a59a-05fecbc8dde5.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb231821fa7a4526451f0f53b611edb970470ac2.png)
 
 _No hables al menos que puedas mejorar el silencio._
 
