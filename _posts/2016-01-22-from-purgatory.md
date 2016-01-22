@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: I´ve been waiting for you
-datePublished: '2016-01-22T15:11:08.920Z'
-dateModified: '2016-01-22T15:10:58.833Z'
+datePublished: '2016-01-22T15:29:41.790Z'
+dateModified: '2016-01-22T15:29:39.301Z'
 title: From Purgatory
 author: []
+sourcePath: _posts/2016-01-22-from-purgatory.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-from-purgatory.md
-published: true
 url: from-purgatory/index.html
 _type: Article
 
