@@ -14,14 +14,14 @@ collections:
       number: 10
 color:
   saturation: 0.953405
-  lightness: 0.9856631
   brandStrength: 0.937276
+  lightness: 0.9856631
   brandColors:
-    - '#CF3938'
-    - '#D8D6C8'
-    - '#DF775E'
-    - '#ACA58F'
-    - '#4B5541'
+    - '#535454'
+    - '#FCE876'
+    - '#E1A289'
+    - '#C5C8BC'
+    - '#310D10'
   rhythmicContrast: 1
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: arboladelante
+favicon: null
 opengraph:
   image: null
   type: null
