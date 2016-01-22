@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Arboladelante - Visual Laborer]]></title>
         <description><![CDATA[Arboladelante - Visual Laborer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://arboladelante.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 22:37:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 22:37:32 GMT</lastBuildDate>
+        <atom:link href="http://arboladelante.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[arboladelante]]></title>
-            <description><![CDATA[<h1>arboladelante</h1>]]></description>
-            <link>undefinedarboladelante/index.html</link>
+            <description><![CDATA[<article><h1>arboladelante</h1><h2>visual laborer</h2></article>]]></description>
+            <link>http://arboladelante.com/arboladelante/index.html</link>
             <guid isPermaLink="false">14f71a4a-2233-4ae3-9517-a9fab00c037d</guid>
-            <pubDate>Fri, 22 Jan 2016 22:37:16 GMT</pubDate>
+            <pubDate>Fri, 22 Jan 2016 22:37:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
