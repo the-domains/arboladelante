@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: I´ve been waiting for you
-datePublished: '2016-01-22T17:40:50.368Z'
-dateModified: '2016-01-22T17:40:47.637Z'
-title: inside out
+datePublished: '2016-01-22T18:31:44.320Z'
+dateModified: '2016-01-22T18:31:42.820Z'
+title: Purgatory
 author: []
 sourcePath: _posts/2016-01-22-from-purgatory.md
 published: true
@@ -19,10 +19,10 @@ publisher:
   url: null
   favicon: null
 url: from-purgatory/index.html
-_type: Article
+_type: Blurb
 
 ---
-# [inside out][0]
+# [P][0]urgatory
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fb0348f51903eb12d0dd9d3f944d40389254049.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bed90583596785b9830bf555bbbe4630e2ca97f.jpg)
 
