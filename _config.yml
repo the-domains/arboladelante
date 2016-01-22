@@ -1,7 +1,7 @@
 name: arboladelante
 favicon: null
-layout_spectrum: 0.44324
-typography_spectrum: 0.18489
+layout_spectrum: 1
+typography_spectrum: 0.62408
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#535454'
-    - '#FCE876'
-    - '#E1A289'
-    - '#C5C8BC'
-    - '#310D10'
-  brandStrength: 0.937276
-  lightness: 0.9856631
-  saturation: 0.953405
-  rhythmicContrast: 1
+    - '#000000'
+    - '#4d4644'
+    - '#827a75'
+    - '#a19992'
+    - '#d0c8c3'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
