@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T01:50:48.361Z'
+datePublished: '2016-01-23T01:50:48.430Z'
 dateModified: '2016-01-23T01:50:41.844Z'
 title: Running study
 author: []
