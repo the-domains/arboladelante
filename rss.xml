@@ -4,11 +4,11 @@
         <description><![CDATA[Arboladelante - Visual Laborer]]></description>
         <link>http://arboladelante.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 01:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 01:47:35 GMT</lastBuildDate>
         <atom:link href="http://arboladelante.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The waiting]]></title>
-            <description><![CDATA[<article><h1>The waiting</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfc4cd421ee57e5d532583d2a5c2995f865143dc.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The waiting</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f96bbb539a40dabedcf02d1284c328ab854ad1d2.jpg"></article>]]></description>
             <link>http://arboladelante.com/the-waiting/index.html</link>
             <guid isPermaLink="false">c9480cb4-f759-45a5-9c14-e67b39fed2a8</guid>
             <pubDate>Sat, 23 Jan 2016 01:14:31 GMT</pubDate>
@@ -21,6 +21,13 @@
             <pubDate>Fri, 22 Jan 2016 22:37:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Running study]]></title>
+            <description><![CDATA[<article><h1>Running study</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faacb9c546d0543813767e20745591a54378c211.gif"></article>]]></description>
+            <link>http://arboladelante.com/running-study/index.html</link>
+            <guid isPermaLink="false">ab358e63-67bc-4cb7-bba7-8bd3f653d869</guid>
+            <pubDate>Sat, 23 Jan 2016 01:47:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Images</p>]]></description>
             <link>http://arboladelante.com/2cf59b22-bc5c-488f-86a8-ed72d94a109b/index.html</link>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Somewhere]]></title>
-            <description><![CDATA[<article><h1>Somewhere</h1><p>Purgatory</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8871607f961b109805e315ff5e29886c0f2d084.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Somewhere</h1><p>Purgatory</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88b72c15b20995a8269ea32241e0eff0d095daa5.jpg"></article>]]></description>
             <link>http://arboladelante.com/somewhere/index.html</link>
             <guid isPermaLink="false">2427d9f8-870e-4aad-8c38-037ee4ebd10f</guid>
             <pubDate>Fri, 22 Jan 2016 22:42:42 GMT</pubDate>
