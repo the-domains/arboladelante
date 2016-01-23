@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T01:50:48.430Z'
-dateModified: '2016-01-23T01:50:41.844Z'
+datePublished: '2016-01-23T01:51:55.902Z'
+dateModified: '2016-01-23T01:51:49.549Z'
 title: Running study
 author: []
 sourcePath: _posts/2016-01-23-running-study.md
