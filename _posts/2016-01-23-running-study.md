@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T01:47:10.494Z'
-dateModified: '2016-01-23T01:46:52.605Z'
+datePublished: '2016-01-23T01:50:48.361Z'
+dateModified: '2016-01-23T01:50:41.844Z'
 title: Running study
 author: []
+sourcePath: _posts/2016-01-23-running-study.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-running-study.md
-published: true
 url: running-study/index.html
 _type: Article
 
