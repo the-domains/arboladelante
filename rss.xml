@@ -4,8 +4,15 @@
         <description><![CDATA[Arboladelante - Visual Laborer]]></description>
         <link>http://arboladelante.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 01:52:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 01:54:33 GMT</lastBuildDate>
         <atom:link href="http://arboladelante.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Somewhere]]></title>
+            <description><![CDATA[<article><h1>Somewhere</h1><p>Purgatory</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea8ffee1e4942d81f0546b4856a4fdbbd2cee91a.jpg"></article>]]></description>
+            <link>http://arboladelante.com/somewhere/index.html</link>
+            <guid isPermaLink="false">2427d9f8-870e-4aad-8c38-037ee4ebd10f</guid>
+            <pubDate>Sat, 23 Jan 2016 01:54:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Running study]]></title>
             <description><![CDATA[<article><h1>Running study</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faacb9c546d0543813767e20745591a54378c211.gif"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://arboladelante.com/the-waiting/index.html</link>
             <guid isPermaLink="false">c9480cb4-f759-45a5-9c14-e67b39fed2a8</guid>
             <pubDate>Sat, 23 Jan 2016 01:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Somewhere]]></title>
-            <description><![CDATA[<article><h1>Somewhere</h1><p>Purgatory</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88b72c15b20995a8269ea32241e0eff0d095daa5.jpg"></article>]]></description>
-            <link>http://arboladelante.com/somewhere/index.html</link>
-            <guid isPermaLink="false">2427d9f8-870e-4aad-8c38-037ee4ebd10f</guid>
-            <pubDate>Fri, 22 Jan 2016 22:42:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
