@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T01:14:31.192Z'
-dateModified: '2016-01-23T01:14:27.343Z'
+datePublished: '2016-01-23T02:02:19.830Z'
+dateModified: '2016-01-23T01:58:56.505Z'
 title: The waiting
 author: []
 sourcePath: _posts/2016-01-22-the-waiting.md
