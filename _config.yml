@@ -1,7 +1,7 @@
 name: arboladelante
 favicon: null
 layout_spectrum: 0.68378
-typography_spectrum: 0.85246
+typography_spectrum: 0.25946
 collections:
   - index:
       path: /
