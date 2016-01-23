@@ -4,7 +4,7 @@
         <description><![CDATA[Arboladelante - Visual Laborer]]></description>
         <link>http://arboladelante.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 02:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 02:08:03 GMT</lastBuildDate>
         <atom:link href="http://arboladelante.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Somewhere]]></title>
@@ -26,6 +26,13 @@
             <link>http://arboladelante.com/the-waiting/index.html</link>
             <guid isPermaLink="false">c9480cb4-f759-45a5-9c14-e67b39fed2a8</guid>
             <pubDate>Sat, 23 Jan 2016 02:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Repetition]]></title>
+            <description><![CDATA[<article><h1>Repetition</h1><p>Video experimental, basado en la repetición de un momento. Buenos Aires - Mayo 2010 Música, Ricardo Vázquez</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d3091a8c95fa5e4c572800c38320474d70ff64e.jpg"></article>]]></description>
+            <link>https://vimeo.com/104246829</link>
+            <guid isPermaLink="false">8f80a33a-b1f1-4b56-9bc4-a726c126b5d6</guid>
+            <pubDate>Sat, 23 Jan 2016 02:07:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
